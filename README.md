@@ -1,2 +1,1 @@
-# wangwenggang.github.io
-blog
+# www.wangwengang.top
